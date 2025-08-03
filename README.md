@@ -1,4 +1,4 @@
-# Hi, I'm Fernando_Vera 👋
+# Hi, I'm Fernando Vera 👋
 
 I'm really excited to start my Master's in Data Analytics in Canada 🇨🇦.  
 I’m passionate about uncovering hidden insights in data and using technology to make better decisions.
